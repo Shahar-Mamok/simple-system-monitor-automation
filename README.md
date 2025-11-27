@@ -1,3 +1,4 @@
+```md
 System Monitoring and Log Scanning Tool
 This Python utility provides a lightweight solution for monitoring system resources (CPU, Memory, Disk) and scanning log files for specific keywords. It automatically generates logs and alerts based on user-defined thresholds.
 
@@ -82,4 +83,5 @@ The script automatically creates a logs/ directory in the same location as the s
 
 logs/system_status.log: Records the timestamped CPU, Memory, and Disk usage for every interval check.
 
-logs/alerts.log: Records specific alerts when thresholds are crossed or when keywords are found during a file scan.
+logs/alerts.log: Records
+```
