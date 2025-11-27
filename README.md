@@ -1,7 +1,3 @@
-Here is the **full README**, clean, simple, and ready for **copy-paste**:
-
----
-
 # System Monitoring and Log Scanning Tool
 
 This Python automation tool provides a lightweight and modular solution for monitoring system resources (CPU, Memory, and Disk) and scanning log files for specified keywords. It automatically generates logs, triggers alerts, and organizes output into dedicated directories.
@@ -121,13 +117,3 @@ logs/alerts.log
 * Web dashboard for real-time monitoring
 * Multi-source log scanning
 * Usage trend visualization
-
----
-
-## License
-
-MIT License
-
----
-
-If you'd like, I can also generate a **README for CV_Analyst** at the same professional level.
