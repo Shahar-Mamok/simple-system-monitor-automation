@@ -22,4 +22,6 @@ This Python utility provides a lightweight solution for monitoring system resour
    ```bash
    pip install psutil
 
-<img width="878" height="451" alt="צילום מסך 2025-11-27 105605" src="https://github.com/user-attachments/assets/02fa9835-7285-41e7-9f93-fb91f162f763" />
+<img width="650" height="280" alt="צילום מסך 2025-11-27 105605" src="https://github.com/user-attachments/assets/02fa9835-7285-41e7-9f93-fb91f162f763" />
+<img width="650" height="280" alt="צילום מסך 2025-11-27 105447" src="https://github.com/user-attachments/assets/a12bb150-5fbf-4628-b111-94d07401fdfc" />
+
